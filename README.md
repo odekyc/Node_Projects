@@ -1,2 +1,2 @@
 # node_repository
-all my node projects
+all the projects I have done using NodeJS and ExpressJS.
